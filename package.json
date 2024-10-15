@@ -4,5 +4,8 @@
   "dependencies": {
     "nodemailer": "latest",
     "express": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
